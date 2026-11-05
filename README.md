@@ -1,19 +1,19 @@
 # Ravy Rafael
 
-Senior Software Engineer at HOVER, based in Belo Horizonte, Brazil. I work on mobile architecture and native integrations with React Native, TypeScript, Swift and Kotlin.
+Senior Software Engineer at HOVER, focused on mobile. Building software professionally since 2016. Based in Belo Horizonte, Brazil.
 
-I'm still the kid who opened up his Super Nintendo just to look at the parts. I still want to know how things work.
+- Mobile architecture with React Native, including the new architecture (Fabric)
+- Native modules and integrations in Swift and Kotlin
+- Former Tech Lead for React and React Native at Cyrela
+
+**Stack:** React Native · TypeScript · JavaScript · React · Next.js · Swift · Kotlin · Node.js · C# / .NET · Python
 
 ## Achievements
 
-| Challenge | Editions | Result |
-| --- | --- | --- |
-| Reply Coding Challenge | 2 | #1 in Brazil · Top 10 worldwide |
-| Reply Cyber Security Challenge | 2 | #1 in Brazil · Top 5 worldwide |
-| BairesDev Challenge (2021) | 1 | Top 10 |
+- **Reply Coding Challenge:** #1 in Brazil and top 10 worldwide, twice
+- **Reply Cyber Security Challenge:** #1 in Brazil and top 5 worldwide, twice
+- **BairesDev Challenge 2021:** top 10
 
-One of my Reply Coding Challenge solutions is in [Challenge](https://github.com/ravyrafael/Challenge).
-
-## Elsewhere
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/ravyrafael/)
